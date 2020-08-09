@@ -5,3 +5,7 @@
     
 name = gets
 puts "Hey, #{name}! Nice to meet you!"
+                  
+if name == "Davide\n"
+	puts "Hi Davide, welcome back"
+end
