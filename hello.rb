@@ -8,4 +8,6 @@ puts "Hey, #{name}! Nice to meet you!"
                   
 if name == "Davide\n"
 	puts "Hi Davide, welcome back"
+else
+	puts "Where is Davide?"
 end
